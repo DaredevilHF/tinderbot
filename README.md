@@ -2,7 +2,7 @@
 Tinder Bot - Account Creator, Auto Swiper, Auto Messenger, Location Spoofer, Captcha Solver and More!
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=quPcrx4UsLs)
+[![Watch the video](https://i.imgur.com/EJOiXov.png)](https://www.youtube.com/watch?v=quPcrx4UsLs)
 
 Token Generator Features:
 Create accounts automatically. Each account is using unique device id and android simulators.
