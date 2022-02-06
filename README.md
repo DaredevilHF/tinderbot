@@ -51,8 +51,12 @@ Location spoofer is available. You need to load your location list like this for
 If your email is rejected by tinder, the bot will generate you email automatically. But you have to load your own email list.
 
 Price and Payment
+
 $100 for a month
+
 Accepting BTC and altcoins
-Contact Details:
+
+Contact Details:  
+
 Discord: daredevil#1676
 
